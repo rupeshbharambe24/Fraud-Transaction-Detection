@@ -1,4 +1,5 @@
 flask
 joblib
 pandas
-scikit-learn
+scikit-learn==1.6.1   # version the saved model was pickled with
+jupyter
